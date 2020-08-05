@@ -1,0 +1,5 @@
+module UUIDlibc [system] {
+  header "uuid.h"
+  link "uuid"
+  export *
+}
